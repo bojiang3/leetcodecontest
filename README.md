@@ -1,3 +1,3 @@
 # leetcodecontest
 
-My solutions to the questions in Leetcode Weekly contests. Solutions are written during the contests. No further edits.
+My own solutions to the questions in Leetcode contests. Solutions are written during the contests. Left as-is, no further edits.
